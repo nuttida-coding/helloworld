@@ -1,8 +1,22 @@
-This project demonstrates how to:
+# My First Hello World Project 🐱
 
-Print text using Python
-Store multi-line ASCII art using triple quotes (''')
-Display custom terminal art with print()
+This is a simple Python project that prints a friendly greeting along with a cute ASCII art of a cat.
+Perfect for learning basic Python printing!
 
-The original idea started from a dachshund-style ASCII design and was later redesigned into a cute long cat character while keeping the stretched body shape inspired by the dachshund format.
+## Features
 
+* Prints "Hello, World!"
+* Displays a cute cat made of ASCII characters
+* Shows a little heart at the bottom
+
+## Screenshot
+
+```python
+ /\_/\________________
+( •.• )               )
+ > ^ <______________ /
+   /  /        /  /
+  (_/         (_/
+
+      ♡   
+```
